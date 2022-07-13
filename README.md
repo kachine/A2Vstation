@@ -10,6 +10,7 @@ THERE IS NO GUARANTEE OR WARRANTY AT ALL, USE AT YOUR OWN RISK.
 ```sh
 gcc A2Vstation.c -Wall -O2 -o A2Vstation
 ```
+Windows binary (both of 32bit and 64bit exe) is avaliable from [Release](https://github.com/kachine/A2Vstation/releases/download/v0.0.1beta/A2Vstation_Windows_0.0.1beta.zip).
  
 ## How to use:
 If you want to convert INPUT.syx to OUTPUT.syx,
